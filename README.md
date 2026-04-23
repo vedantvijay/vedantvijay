@@ -1,23 +1,104 @@
+# Vedant Vijay
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋+I'm+Vedant;Nice+to+meet+you!;" />
-</h1>
+**Full-stack developer from India** · React · Next.js · Node.js · TypeScript
 
-<h3 align="center">A passionate developer from India</h3>
+[![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=534AB7&style=flat-square&label=Profile+views)](https://github.com/vedantvijay)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantvijay&label=Profile%20views&color=0e75b6&style=flat" alt="vedantvijay" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantvijay" alt="vedantvijay" /></a> </p>
+## About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+> I love turning complex problems into clean, scalable solutions.  
+> Currently deepening my expertise in full-stack web development and cloud-native architectures.
+
+- 🔭 Currently working on **[your current project]**
+- 🌱 Currently learning **system design · cloud architecture · [anything new]**
+- 👯 Looking to collaborate on **open-source projects and impactful products**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript**
+- 📫 Reach me at **[your email]**
+- ⚡ Fun fact: **[something memorable about you]**
+
+---
+
+## Tech stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Languages & Tools**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured projects
+
+### [Project Name](https://github.com/vedantvijay/project-link)
+> **One line that hooks the reader — what does it do and why does it matter?**
+
+Built with **Next.js · TypeScript · Firebase**.  
+[Write 2–3 sentences: what problem it solves, what makes it technically interesting, and any metrics — e.g. "reduced load time by 40%" or "used by 200+ users".]
+
+**Key features:** Feature 1 · Feature 2 · Feature 3
+
+---
+
+### [Project Name](https://github.com/vedantvijay/project-link)
+> **One line that hooks the reader.**
+
+Built with **React · Node.js · MongoDB**.  
+[2–3 sentences about the technical challenge you solved and what you're proud of.]
+
+**Key features:** Feature 1 · Feature 2 · Feature 3
+
+---
+
+### [Project Name](https://github.com/vedantvijay/project-link)
+> **One line description.**
+
+Built with **[your stack]**.  
+[Brief description.]
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantvijay&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantvijay&layout=compact&theme=default&hide_border=true" height="165" alt="top langs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvijay&hide_border=true&theme=default" alt="streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantvijay&show_icons=true&locale=en&layout=compact" alt="vedantvijay" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantvijay&show_icons=true&locale=en" alt="vedantvijay" /></p>
+## Currently
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvijay&" alt="vedantvijay" /></p>
+- 🚀 Building: **[current project / what you're shipping]**
+- 📖 Learning: **[what skill you're developing right now]**
+- 🎯 Goal for 2025: **[land first dev role / launch X / contribute to Y]**
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://YOUR_RESUME_LINK)
