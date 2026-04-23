@@ -1,6 +1,12 @@
-# Vedant Vijay
+<div align="center">
 
-**Full-stack developer from India** · React · Next.js · Node.js · TypeScript
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=534AB7&center=true&vCenter=true&width=500&height=70&lines=Vedant+Vijay+Singh" alt="Vedant Vijay Singh" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=888780&center=true&vCenter=true&width=500&height=40&lines=Full-stack+developer+%C2%B7+India;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript" alt="subtitle" />
+
+</div>
+
+---
 
 [![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=534AB7&style=flat-square&label=Profile+views)](https://github.com/vedantvijay)
 ![Open to work](https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square)
