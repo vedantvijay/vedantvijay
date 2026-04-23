@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=534AB7&center=true&vCenter=true&width=500&height=70&lines=Vedant+Vijay+Singh" alt="Vedant Vijay Singh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=534AB7&center=true&vCenter=true&width=500&height=70&lines=Vedant+Vijay" alt="Vedant Vijay Singh" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=888780&center=true&vCenter=true&width=500&height=40&lines=Full-stack+developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript" alt="subtitle" />
 
