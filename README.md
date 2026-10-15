@@ -2,81 +2,115 @@
 
 # Vedant Vijay
 
-### Full-stack developer building practical products across web, AI, and mobile.
+### I build useful software across AI, web, and mobile.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vvsportfolio23.netlify.app-111827?style=flat-square&logo=netlify&logoColor=white)](https://vvsportfolio23.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-vedantvijay-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedantvijay)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedantvijaysingh7980@gmail.com)
+<p>
+  <a href="https://vvsportfolio23.netlify.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/vedantvijay?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vedantvijaysingh7980@gmail.com">Contact</a>
+</p>
+
+[![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=2563eb&style=flat-square&label=PROFILE+VIEWS)](https://github.com/vedantvijay)
 
 </div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=534AB7&style=flat-square&label=Profile+views)](https://github.com/vedantvijay)
-
 ---
 
-## About
+> Product-minded developer turning ambitious ideas into working software — from local RAG systems and AI agents to sustainability apps and full-stack products.
 
-I’m Vedant Vijay, a developer who enjoys taking ideas from prototype to working product. My public work spans full-stack web apps, local AI tools, retrieval-augmented generation, developer tooling, and Swift applications.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Building AI-enabled products and useful web applications
-- Exploring local LLMs, RAG pipelines, and agent workflows
-- Interested in clean interfaces, thoughtful automation, and shipping things people can use
-- Open to collaborating on interesting software and open-source projects
+### Building
+
+AI-native tools, full-stack products, and interfaces that are useful beyond the demo.
+
+</td>
+<td width="33%" valign="top">
+
+### Exploring
+
+Local LLMs, retrieval-augmented generation, agent workflows, and developer tooling.
+
+</td>
+<td width="33%" valign="top">
+
+### Working style
+
+Curious by default. Opinionated about clarity. Focused on shipping.
+
+</td>
+</tr>
+</table>
 
 ## Selected work
 
-### [DrugForgeRL](https://github.com/vedantvijay/DrugForge)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An OpenEnv-compatible reinforcement-learning environment for AI-driven drug discovery. An LLM agent acts as a medicinal chemist: selecting molecular building blocks, applying real chemistry transformations, and optimizing compounds against multiple pharmacological metrics.
+### 🧬 [DrugForgeRL](https://github.com/vedantvijay/DrugForge)
 
-**FastAPI · WebSockets · Docker · reinforcement learning · computational chemistry**
+An OpenEnv-compatible reinforcement-learning environment where LLM agents design drug candidates by selecting molecular building blocks, applying reactions, and optimizing pharmacological metrics.
 
-### [Documind](https://github.com/vedantvijay/Documind)
+**FastAPI · WebSockets · Docker**
 
-A privacy-first local RAG chatbot for talking with PDFs and web pages without uploading data to the cloud. It uses local LLM inference through Ollama, persistent FAISS indexing, and a Streamlit interface.
+</td>
+<td width="50%" valign="top">
 
-**Python · LangChain · FAISS · Ollama · Streamlit**
+### 📑 [Documind](https://github.com/vedantvijay/Documind)
 
-### [Carbon](https://github.com/vedantvijay/Carbon)
+A privacy-first local RAG chatbot for PDFs and web pages. Documents stay on your machine while Ollama, LangChain, and FAISS work together to produce grounded answers.
 
-A Swift Playgrounds carbon-footprint tracker created for the Swift Student Challenge. It helps users log emissions across travel, food, energy, and shopping, then understand their impact through dashboards, trends, goals, and eco-tips.
+**Python · LangChain · FAISS · Ollama**
 
-**Swift · SwiftUI · data visualization · sustainability**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [SafeCity](https://github.com/vedantvijay/safecity)
+### 🌱 [Carbon](https://github.com/vedantvijay/Carbon)
 
-A safety-monitoring application with interactive maps, heatmap visualization, community chat, emergency SOS flows, and responsive dark-mode UI.
+A Swift Playgrounds app for the Swift Student Challenge that makes personal emissions measurable through logging, trends, goals, dashboards, and eco-tips.
 
-**React · TypeScript · Google Maps · EmailJS**
+**Swift · SwiftUI · data visualization**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SafeCity](https://github.com/vedantvijay/safecity)
+
+A safety-monitoring application with interactive maps, heatmaps, community chat, emergency SOS flows, and a responsive dark-mode interface.
+
+**React · TypeScript · Google Maps**
+
+</td>
+</tr>
+</table>
 
 ## Toolbox
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,java,cpp,react,nodejs,vite,docker,firebase,mongodb,git&perline=13" alt="TypeScript, JavaScript, Python, Swift, Java, C++, React, Node.js, Vite, Docker, Firebase, MongoDB, and Git" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## Right now
 
-**Frameworks, platforms & tools**
+- Building practical AI-enabled products and polished web experiences
+- Learning more about local inference, RAG architecture, and agentic systems
+- Keeping my algorithm practice organized in [NeetCode submissions](https://github.com/vedantvijay/neetcode-submissions)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Find me online
 
-## More
+<p>
+  <a href="https://vvsportfolio23.netlify.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/vedantvijay?tab=repositories">GitHub repositories</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vedantvijaysingh7980@gmail.com">Email</a>
+</p>
 
-- [Portfolio](https://vvsportfolio23.netlify.app/) — a fuller look at my work
-- [NeetCode submissions](https://github.com/vedantvijay/neetcode-submissions) — a record of algorithm practice
-- [GitHub repositories](https://github.com/vedantvijay?tab=repositories) — experiments, products, and ongoing work
-
----
-
-If you’re building something thoughtful, feel free to [reach out](mailto:vedantvijaysingh7980@gmail.com).
+<sub>Have an interesting idea? I’m always happy to talk about thoughtful software.</sub>
