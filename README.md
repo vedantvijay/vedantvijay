@@ -10,6 +10,8 @@
 
 </div>
 
+[![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=534AB7&style=flat-square&label=Profile+views)](https://github.com/vedantvijay)
+
 ---
 
 ## About
