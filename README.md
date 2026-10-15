@@ -5,11 +5,13 @@
 ### I build useful software across AI, web, and mobile.
 
 <p>
-  <a href="https://vvsportfolio23.netlify.app/">Portfolio</a>
+  <a href="https://portfolio-2-five-gules.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/vedantvijay?tab=repositories">Projects</a>
+  <a href="https://www.linkedin.com/in/vedant-vijay-singh">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:vedantvijaysingh7980@gmail.com">Contact</a>
+  <a href="https://github.com/vedantvijay?tab=repositories">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vedantvijaysingh7980@gmail.com">Email</a>
 </p>
 
 [![Profile views](https://komarev.com/ghpvc/?username=vedantvijay&color=2563eb&style=flat-square&label=PROFILE+VIEWS)](https://github.com/vedantvijay)
@@ -106,7 +108,9 @@ A safety-monitoring application with interactive maps, heatmaps, community chat,
 ## Find me online
 
 <p>
-  <a href="https://vvsportfolio23.netlify.app/">Portfolio</a>
+  <a href="https://portfolio-2-five-gules.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vedant-vijay-singh">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/vedantvijay?tab=repositories">GitHub repositories</a>
   &nbsp;·&nbsp;
