@@ -5,7 +5,7 @@
 ### I build useful software across AI, web, and mobile.
 
 <p>
-  <a href="https://vedantvijay-portfolio.vercel.app">Portfolio</a>
+  <a href="http://vedantvijay.tech/">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vedant-vijay-singh">LinkedIn</a>
   &nbsp;·&nbsp;
