@@ -18,6 +18,32 @@
 
 </div>
 
+<pre>
+        ⚔️  DEMON SLAYER × CODE  ⚔️
+
+             /\
+            /  \        "Keep breathing.
+       ____/____\____     Keep building."
+      /    /    \    \
+     /____/  /\  \____\
+          __/  \__
+         /  /||\  \
+        /__/ || \__\
+          \__||__/
+             ||
+        _____||_____
+       /             \
+      /  const path  \
+     /   = "ship";   \
+    /_________________\
+
+    while (!done) {
+      breathe();
+      debug();
+      ship();
+    }
+</pre>
+
 ---
 
 > Product-minded developer turning ambitious ideas into working software — from local RAG systems and AI agents to sustainability apps and full-stack products.
