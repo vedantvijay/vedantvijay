@@ -18,31 +18,9 @@
 
 </div>
 
-<pre>
-        ⚔️  DEMON SLAYER × CODE  ⚔️
-
-             /\
-            /  \        "Keep breathing.
-       ____/____\____     Keep building."
-      /    /    \    \
-     /____/  /\  \____\
-          __/  \__
-         /  /||\  \
-        /__/ || \__\
-          \__||__/
-             ||
-        _____||_____
-       /             \
-      /  const path  \
-     /   = "ship";   \
-    /_________________\
-
-    while (!done) {
-      breathe();
-      debug();
-      ship();
-    }
-</pre>
+<p align="center">
+  <img src="./assets/demon-slayer-code-pixel.png" alt="Demon Slayer inspired pixel art with a coding theme" width="100%" />
+</p>
 
 ---
 
